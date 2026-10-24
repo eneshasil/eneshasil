@@ -10,7 +10,8 @@ I build data pipelines and warehouses that turn messy source data into clean, tr
 - **SQL & PostgreSQL:** stored procedures, ELT orchestration, logging and error handling, data-quality checks
 - **Python:** data analysis, visualization, graph/network analysis, machine learning from scratch
 - **Applied AI:** LLM-based assistant prototypes
-- **Currently exploring:** MLOps / LLMOps practices
+- **Currently learning:** Spark, Kafka, Airflow, dbt, Delta Lake, Docker, Terraform, AWS
+- **Next up:** MLOps / LLMOps practices
 
 ## Selected projects
 
